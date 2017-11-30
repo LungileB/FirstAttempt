@@ -52,6 +52,10 @@ public class Calculator{
 			//System.out.print(add); 
 		System.out.printf("%d + %d = %d", x1,x2, add);}
 		
+		if(equation !=4){
+			System.out.println("Thank you mister DJ for playing my song by yvonne chaka chaka");
+		}
+		
 		
 		
 	}
